@@ -1,0 +1,7 @@
+{
+  "name": "Taipei Fashion Week AW26",
+  "description": "The Official Website for Taipei Fashion Week AW26 - The New Avant-Garde. A minimalist, high-fashion portal for event information and call for entries.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
